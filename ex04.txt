@@ -1,0 +1,30 @@
+Exercício 4)
+
+a) 1, 3, 5, 7, ___
+
+Resposta: 9 - Lógica de (número anterior +2) para cada número posterior;
+
+
+b) 2, 4, 8, 16, 32, 64, ____
+
+Resposta: 128 - Lógica de (número anterior *2) para cada número posterior;
+
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+
+Respostas: 49 - Lógica de pegar a diferença dos últimos 2 números e somar +2 à essa diferença, depois adicionar ao último número essa diferença do último número +2;
+
+
+d) 4, 16, 36, 64, ____
+
+Resposta: 100 - Lógica de pegar a diferença dos número que aumentam de 8 em 8 (sendo o primeiro número da diferença o número 12) e somar ao número anterior;
+
+
+e) 1, 1, 2, 3, 5, 8, ____
+
+Resposta: 13 - Lógica de sequência de Fibonacci, que é o último número mais o penúltimo número da lista;
+
+
+f) 2,10, 12, 16, 17, 18, 19, ____
+
+Resposta: 20 - Independente da lógica que estava acontecendo no começo da lista, o final parecia ser um simples (número anterior + 1);
